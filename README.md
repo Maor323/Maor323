@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I love coding and drinking coffee at the same time :)**
 
-<h3 align="left">Feel free to connect me :)</h3>
+<h3 align="left">Feel free to connect with me :)</h3>
 <p align="left">
 
 
