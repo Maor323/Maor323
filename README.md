@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript**
 
-- 📫 How to reach me: **maorhamay@gmail.com**
+- 📫 How to reach me: **maortask@gmail.com**
 
 - ⚡ Fun fact: **I love coding and drinking coffee at the same time :)**
 
