@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Maor</h1>
 <h3 align="center">An ambitious and motivated software programmer</h3>
 
-- 🌱 I’m currently learning: **Python**
+- 🌱 I’m currently learning: **Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **maortask@gmail.com**
 
