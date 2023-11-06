@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Maor</h1>
 <h3 align="center">An ambitious and motivated software programmer</h3>
 
-- 🌱 I’m currently working on: **MERN stack project**
+- 👨‍🎓 graduate Bachelor's degree in Computer Science
+
+- 🌱 taking udemy courses to enhance my knowledge (current work on javascript course)
 
 - 📫 How to reach me: **maortask@gmail.com**
 
