@@ -3,11 +3,11 @@
 
 - 👨‍🎓 graduate Bachelor's degree in Computer Science
 
-- 🌱 taking udemy courses to enhance my knowledge (current work on javascript course)
-
-- 📫 How to reach me: **maortask@gmail.com**
+- 🌱 taking udemy courses to enhance my knowledge
 
 - ⚡ Fun fact about me: **I can't handle scary movies**
+
+- 📫 How to reach me: **maortask@gmail.com**
 
 <h3 align="left">Feel free to connect with me :)</h3>
 <p align="left">
